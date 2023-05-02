@@ -1,0 +1,39 @@
+int num;
+bool b;
+
+void voidfunc(int a, bool b)
+{
+    a = true;
+    b = 1;
+    return a;
+}
+
+bool boolfunc(bool b){
+    int x;
+    x = 1;
+    return x;
+}
+
+int intfunc(int b)
+{
+    b = 5;
+    b = true;
+    b = voidfunc;
+    bool ret;
+    return voidfunc(b, ret);
+	voidfunc = voidfunc;
+}
+
+int main(){
+    int a;
+    bool b;
+    output "stuff";
+    output a;
+    output b;
+    output voidfunc();
+    output intfunc(a);
+    input voidfunc;
+	output voidfunc;
+    input a;
+    input b;
+}

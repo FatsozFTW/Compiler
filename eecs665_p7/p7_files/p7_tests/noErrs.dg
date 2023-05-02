@@ -1,0 +1,41 @@
+	
+int func(int a, int b, int c, int d, int e, int f, int g, int j, int m , int n)
+{
+	int h;
+	h = g;
+	int i;
+	for(i = 0; i<5; i++)
+	{
+		output i;
+		output "\n";
+	}
+	i=0;
+	while(i != 10)
+	{
+		output i;
+		output "\n";
+		i++;
+	}
+	return (a+b+c+d+e+f+h+j+m+n);
+	
+}
+
+int main(){
+	//Init values
+	int a;
+	int c;
+	int f;
+	bool b;
+	bool d;
+	bool e;
+	a = 4;
+	c = 5;
+
+	//Code here:
+	output "\n";
+	output func(1,2,3,4,5,6,7,8,a,a);
+	
+	
+	return 0;
+}
+

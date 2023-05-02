@@ -1,0 +1,51 @@
+int global1;
+bool hi;
+void test;
+int hi(int a){ int a; str = " 1";
+a= 0;}
+fn(int,                     bool)->int a;
+
+int hi()
+{
+    somethingcalled();
+    somethingelse(1-9);
+    somethingelse(1+9);
+    somethingelse(1==9);
+    somethingelse(1>9);
+    somethingelse(1>=9);
+    somethingelse(1<-9);
+    somethingelse(1<=9);
+    somethingelse(1/9);
+    somethingelse(!1*9);
+    a++;
+    a--;
+
+
+    if(a == b)
+    {
+ input a;
+    }
+
+    if(true)
+    {
+        
+           
+    output b;
+    
+    
+    }
+    else{
+return a;
+    }
+
+    for(int i; i>1; i++)
+    {
+        int a;
+    }
+    while(true)
+    {
+        return;
+    }
+    
+}
+

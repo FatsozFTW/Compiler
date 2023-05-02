@@ -1,0 +1,21 @@
+int main(int a, bool b)
+{
+    int num;
+    num = a;
+    bool boo;
+    boo = b;
+
+    if (num == 1234)
+    {
+        return 18;
+    }
+    else
+    {
+        return 111;
+    }
+
+    if (num == 1111)
+    {
+        input num;
+    }
+}

@@ -1,0 +1,8 @@
+bool retFalse() {
+    bool a;
+    int b;
+    b = 0;
+    a = 0;
+
+    return(b && a);
+}

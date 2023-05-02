@@ -1,0 +1,10 @@
+bool retFalse() {
+    int b;
+    b = 0;
+    if(b){
+        output b;
+    }
+    bool a;
+    a = True;
+    return(a);
+}

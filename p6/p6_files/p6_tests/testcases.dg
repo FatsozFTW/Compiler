@@ -1,0 +1,50 @@
+int num;
+bool b;
+
+void voidfunc(int a, bool b)
+{
+	a = 1;
+	b = true;
+}
+
+bool boolfunc(bool b){
+	int x;
+	x = 1;
+	return false;
+}
+
+int intfunc(int b)
+{
+	b = 5;
+	bool ret;
+    output b;
+    return 10;
+}
+
+int main(){
+	int a;
+    int aa;
+    a = 1;
+    aa = 11;
+    a = a + aa;
+    bool la;
+    la = !la;
+    if (a == -11)
+    {
+        while (true)
+        {
+
+        }
+    }
+    else
+    {
+        return 1;
+    }
+	bool b;
+	output "stuff";
+	output a;
+	output b;
+	output intfunc(a);
+	input a;
+	input b;
+}

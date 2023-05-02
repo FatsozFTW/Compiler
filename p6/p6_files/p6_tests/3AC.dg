@@ -1,0 +1,45 @@
+int f(int c, bool d){
+	c =1;
+	d = true;
+	return c;
+}
+
+void g(){
+
+
+}
+
+void h(){
+	int a;
+	bool b;
+	while(b == b)
+	{
+		a = a+a;
+		a = a-a;
+		a = a/a;
+		a = a*a;
+		b = !b;
+		input a;
+		output a;
+	}
+	for(a=5; a<a; a++){
+		g();
+		a--;
+
+	}
+	if(b != b){
+		//idk
+		
+	}
+	if((a <= a) and (a > a) or (a >= a))
+	{
+		a = f(a, b);
+	}
+	else{
+		a = a+a;
+		
+		output a;
+		a = mayhem;
+		
+	}
+}

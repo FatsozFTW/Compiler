@@ -1,0 +1,4 @@
+int foo() {
+    bool b;
+    return b;
+}

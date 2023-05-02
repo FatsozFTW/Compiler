@@ -1,0 +1,9 @@
+int foo(int b) {
+    return b;
+}
+
+int main() {
+    bool a;
+    foo(a);
+    return(0);
+}

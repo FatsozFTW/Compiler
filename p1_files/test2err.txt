@@ -1,0 +1,4 @@
+FATAL [4,1]-[4,19]: Unterminated string literal with bad escape sequence ignored
+FATAL [8,1]-[8,14]: Unterminated string literal ignored
+FATAL [9,1]-[9,22]: Unterminated string literal with bad escape sequence ignored
+FATAL [11,1]-[11,46]: Unterminated string literal with bad escape sequence ignored

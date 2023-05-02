@@ -1,0 +1,5 @@
+bool glob(bool);
+int main(->int)(){
+    int a(int);
+    glob(bool) = a(int);
+}
